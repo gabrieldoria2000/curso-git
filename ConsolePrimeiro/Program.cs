@@ -315,7 +315,7 @@ namespace Primeiro
 
                         */
 
-            Console.WriteLine("How many employees will be registred?");
+            /*Console.WriteLine("How many employees will be registred?");
             int qtdEmployees = int.Parse(Console.ReadLine());
 
             List<funcionario> list = new List<funcionario>();
@@ -360,6 +360,7 @@ namespace Primeiro
             {
                 Console.WriteLine(obj);
             }
+            */
 
             //----------------------Expressão condicional sem usar IF
             // se ele atender a condição, executa o primeiro, caso contrário executa o segundo
